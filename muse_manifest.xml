@@ -1,0 +1,94 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Lompocdem.com" resolutions="1x" timestamp="1520210346182">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="436174301" ref="lyp-dda:events:gallery:index"/>
+    <file name="lyp-dda.css" crc="3808278498" ref="lyp-dda"/>
+    <file name="events.css" crc="3808278498" ref="events"/>
+    <file name="gallery.css" crc="3808278498" ref="gallery"/>
+    <file name="index.css" crc="380023932" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:gallery:lyp-dda"/>
+    <file name="museutils.js" crc="46400467" ref="index:events:gallery:lyp-dda"/>
+    <file name="whatinput.js" crc="86476730" ref="index:events:gallery:lyp-dda"/>
+    <file name="museconfig.js" crc="436936948" ref="index:events:gallery:lyp-dda"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:events:gallery:lyp-dda"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:events:gallery:lyp-dda"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:events:gallery:lyp-dda"/>
+    <file name="require.js" crc="85721165" ref="index:events:gallery:lyp-dda"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lvdc logo.png" crc="107268723" seo="true" ref="index:events:gallery:lyp-dda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="lyp-dda" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="ca 24th district map.jpg" crc="382164090" seo="true" ref="index:events:gallery:lyp-dda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="lyp-dda" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="15965609_1858919687678815_877938327186161047_n.jpg" crc="3971605339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1836849_1534217190149068_7076031263026832109_o.jpg" crc="106299385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11052408_1659862500917869_6080966110890516255_n.jpg" crc="4035207796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11139972_1659859334251519_3551968450206744882_n.jpg" crc="4005308748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16177650_1863461600557957_8747603744224025863_o.jpg" crc="60359159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16195161_1863461640557953_4012005792931572987_n.jpg" crc="434771193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hibbett 3.jpg" crc="330056466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web poster-01-01.png" crc="4285662015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="maxresdefault-crop-u560.jpg" crc="103066872" seo="true" ref="index:events:gallery:lyp-dda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="lyp-dda" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u632.jpg" crc="103066872" seo="true" ref="index:events:gallery:lyp-dda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="lyp-dda" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="youtube.jpg" crc="4039868443" seo="true" ref="index:events:gallery:lyp-dda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="lyp-dda" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u565.jpg" crc="311910365" seo="true" ref="index:events:gallery:lyp-dda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="lyp-dda" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4292187505" seo="true" mt="1520210334113" redirect="true"/>
+  <file name="events.html" crc="3804344469" seo="true" mt="1520209976451" redirect="true"/>
+  <file name="gallery.html" crc="116004069" seo="true" mt="1520209976451" redirect="true"/>
+  <file name="lyp-dda.html" crc="377298882" seo="true" mt="1520209976451" redirect="true"/>
+</manifest>
